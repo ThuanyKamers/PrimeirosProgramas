@@ -91,7 +91,3 @@ while True:
     if input("Deseja sair? (s/n): ").lower() == 's':
         print("Saindo...")
         break
-
-#Olá, recrutador! Este progrma foi feito baseado em um curso que participei, onde criei um menu de caixa eletrônico, juntamente com ajuda de uma IA.
-#Ainda tenho conhecimentos básicos em programação, não conseguiria fazer este código inteiro sozinha, porém dou um jeito de fazer o que me é pedido, de alguma maneira!
-#Espero que o código esteja conforme o que foi solicitado. Agradeço imensamente a oportunidade de participar do processo seletivo, com certeza essa experiência me trouxe mais conhecimento.
